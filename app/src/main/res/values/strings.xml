@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Timetable for HSE FE</string>
+    <string name="button_rasp_for_stud">Timetable for Students</string>
+    <string name="toast_rasp_for_stud">Timetable for Students opens</string>
+    <string name="button_rasp_for_prep">Timetable for Lecturer</string>
+    <string name="toast_rasp_for_prep">Timetable for Lecturer opens</string>
+</resources>
